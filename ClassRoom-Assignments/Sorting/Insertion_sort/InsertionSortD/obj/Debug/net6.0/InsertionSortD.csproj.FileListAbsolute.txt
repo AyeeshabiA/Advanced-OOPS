@@ -1,0 +1,15 @@
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\InsertionSortD\bin\Debug\net6.0\InsertionSortD.exe
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\InsertionSortD\bin\Debug\net6.0\InsertionSortD.deps.json
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\InsertionSortD\bin\Debug\net6.0\InsertionSortD.runtimeconfig.json
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\InsertionSortD\bin\Debug\net6.0\InsertionSortD.dll
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\InsertionSortD\bin\Debug\net6.0\InsertionSortD.pdb
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\InsertionSortD\obj\Debug\net6.0\InsertionSortD.csproj.AssemblyReference.cache
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\InsertionSortD\obj\Debug\net6.0\InsertionSortD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\InsertionSortD\obj\Debug\net6.0\InsertionSortD.AssemblyInfoInputs.cache
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\InsertionSortD\obj\Debug\net6.0\InsertionSortD.AssemblyInfo.cs
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\InsertionSortD\obj\Debug\net6.0\InsertionSortD.csproj.CoreCompileInputs.cache
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\InsertionSortD\obj\Debug\net6.0\InsertionSortD.dll
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\InsertionSortD\obj\Debug\net6.0\refint\InsertionSortD.dll
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\InsertionSortD\obj\Debug\net6.0\InsertionSortD.pdb
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\InsertionSortD\obj\Debug\net6.0\InsertionSortD.genruntimeconfig.cache
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\InsertionSortD\obj\Debug\net6.0\ref\InsertionSortD.dll

@@ -1,0 +1,15 @@
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\SelectionSortA\obj\Debug\net6.0\SelectionSortA.csproj.AssemblyReference.cache
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\SelectionSortA\obj\Debug\net6.0\SelectionSortA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\SelectionSortA\obj\Debug\net6.0\SelectionSortA.AssemblyInfoInputs.cache
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\SelectionSortA\obj\Debug\net6.0\SelectionSortA.AssemblyInfo.cs
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\SelectionSortA\obj\Debug\net6.0\SelectionSortA.csproj.CoreCompileInputs.cache
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\SelectionSortA\bin\Debug\net6.0\SelectionSortA.exe
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\SelectionSortA\bin\Debug\net6.0\SelectionSortA.deps.json
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\SelectionSortA\bin\Debug\net6.0\SelectionSortA.runtimeconfig.json
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\SelectionSortA\bin\Debug\net6.0\SelectionSortA.dll
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\SelectionSortA\bin\Debug\net6.0\SelectionSortA.pdb
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\SelectionSortA\obj\Debug\net6.0\SelectionSortA.dll
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\SelectionSortA\obj\Debug\net6.0\refint\SelectionSortA.dll
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\SelectionSortA\obj\Debug\net6.0\SelectionSortA.pdb
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\SelectionSortA\obj\Debug\net6.0\SelectionSortA.genruntimeconfig.cache
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\SelectionSortA\obj\Debug\net6.0\ref\SelectionSortA.dll

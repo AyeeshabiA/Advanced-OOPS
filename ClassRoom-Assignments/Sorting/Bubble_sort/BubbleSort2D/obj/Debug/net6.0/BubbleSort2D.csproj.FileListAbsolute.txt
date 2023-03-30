@@ -1,0 +1,15 @@
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\BubbleSort2D\bin\Debug\net6.0\BubbleSort2D.exe
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\BubbleSort2D\bin\Debug\net6.0\BubbleSort2D.deps.json
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\BubbleSort2D\bin\Debug\net6.0\BubbleSort2D.runtimeconfig.json
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\BubbleSort2D\bin\Debug\net6.0\BubbleSort2D.dll
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\BubbleSort2D\bin\Debug\net6.0\BubbleSort2D.pdb
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\BubbleSort2D\obj\Debug\net6.0\BubbleSort2D.csproj.AssemblyReference.cache
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\BubbleSort2D\obj\Debug\net6.0\BubbleSort2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\BubbleSort2D\obj\Debug\net6.0\BubbleSort2D.AssemblyInfoInputs.cache
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\BubbleSort2D\obj\Debug\net6.0\BubbleSort2D.AssemblyInfo.cs
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\BubbleSort2D\obj\Debug\net6.0\BubbleSort2D.csproj.CoreCompileInputs.cache
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\BubbleSort2D\obj\Debug\net6.0\BubbleSort2D.dll
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\BubbleSort2D\obj\Debug\net6.0\refint\BubbleSort2D.dll
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\BubbleSort2D\obj\Debug\net6.0\BubbleSort2D.pdb
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\BubbleSort2D\obj\Debug\net6.0\BubbleSort2D.genruntimeconfig.cache
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\BubbleSort2D\obj\Debug\net6.0\ref\BubbleSort2D.dll

@@ -1,0 +1,15 @@
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\BubbleSort3D\bin\Debug\net6.0\BubbleSort3D.exe
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\BubbleSort3D\bin\Debug\net6.0\BubbleSort3D.deps.json
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\BubbleSort3D\bin\Debug\net6.0\BubbleSort3D.runtimeconfig.json
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\BubbleSort3D\bin\Debug\net6.0\BubbleSort3D.dll
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\BubbleSort3D\bin\Debug\net6.0\BubbleSort3D.pdb
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\BubbleSort3D\obj\Debug\net6.0\BubbleSort3D.csproj.AssemblyReference.cache
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\BubbleSort3D\obj\Debug\net6.0\BubbleSort3D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\BubbleSort3D\obj\Debug\net6.0\BubbleSort3D.AssemblyInfoInputs.cache
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\BubbleSort3D\obj\Debug\net6.0\BubbleSort3D.AssemblyInfo.cs
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\BubbleSort3D\obj\Debug\net6.0\BubbleSort3D.csproj.CoreCompileInputs.cache
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\BubbleSort3D\obj\Debug\net6.0\BubbleSort3D.dll
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\BubbleSort3D\obj\Debug\net6.0\refint\BubbleSort3D.dll
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\BubbleSort3D\obj\Debug\net6.0\BubbleSort3D.pdb
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\BubbleSort3D\obj\Debug\net6.0\BubbleSort3D.genruntimeconfig.cache
+C:\Users\AyeeshabiAbdulkadhar\Desktop\C#\HomeAssignment\Sorting\BubbleSort3D\obj\Debug\net6.0\ref\BubbleSort3D.dll
